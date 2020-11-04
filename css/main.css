@@ -21,6 +21,11 @@ Primary use:
   src: url('../fonts/Ubuntu/Ubuntu-Bold.ttf'); 
 }
 
+@font-face {
+  font-family: gilroy-light;
+  src: url('../fonts/Gilroy/gilroy-light.otf'); 
+}
+
 
 /*//////////////////////////////////////////////////////////////////
 [ RS PLUGIN ]*/
@@ -154,9 +159,9 @@ Primary use:
 }
 
 .s1-txt2 {
-  font-family: Ubuntu-Regular;
+  font-family: gilroy-light;
   font-size: 14px;
-  color: #fff;
+  color: black;
   line-height: 1.5;
 }
 
@@ -183,24 +188,24 @@ Primary use:
 /*//////////////////////////////////////////////////////////////////
 [ L-Text >= 26 ]*/
 .l1-txt1 {
-  font-family: Ubuntu-Bold;
-  font-size: 60px;
-  color: #fff;
+  font-family: gilroy-light;
+  font-size: 7em;
+  color: black;
   line-height: 1.2;
   text-transform: uppercase;
 }
 
 .l1-txt2 {
-  font-family: Ubuntu-Regular;
-  font-size: 24px;
-  color: #fff;
+  font-family: gilroy-light;
+  font-size: 2.5em;
+  color: black;
   line-height: 1.5;
 }
 
 .l1-txt3 {
   font-family: Ubuntu-Bold;
   font-size: 36px;
-  color: #555555;
+  color: white;
   line-height: 1;
 }
 
@@ -245,15 +250,15 @@ Primary use:
 
 /*//////////////////////////////////////////////////////////////////
 [ Background ]*/
-.bg0 {background-color: #fff;}
+.bg0 {background-color: black;}
 
 /*---------------------------------------------*/
 .bg-g1 {
-  background: #fb5f7e;
-  background: -webkit-linear-gradient(bottom, #f77062, #fe5196);
+  background: #FFC0CB;
+/*  background: -webkit-linear-gradient(bottom, #f77062, #fe5196);
   background: -o-linear-gradient(bottom, #f77062, #fe5196);
   background: -moz-linear-gradient(bottom, #f77062, #fe5196);
-  background: linear-gradient(bottom, #f77062, #fe5196);
+  background: linear-gradient(bottom, #f77062, #fe5196);*/
 }
 
 

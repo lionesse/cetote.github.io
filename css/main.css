@@ -189,17 +189,17 @@ Primary use:
 [ L-Text >= 26 ]*/
 .l1-txt1 {
   font-family: gilroy-light;
-  font-size: 7em;
+  font-size: 5em;
   color: black;
-  line-height: 1.2;
+  line-height: 1.0;
   text-transform: uppercase;
 }
 
 .l1-txt2 {
   font-family: gilroy-light;
-  font-size: 3.5em;
+  font-size: 2.4em;
   color: black;
-  line-height: 0.7;
+  line-height: 0.8;
 }
 
 .l1-txt3 {

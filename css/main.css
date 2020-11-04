@@ -17,8 +17,8 @@ Primary use:
 }
 
 @font-face {
-  font-family: Ubuntu-Bold;
-  src: url('../fonts/Ubuntu/Ubuntu-Bold.ttf'); 
+  font-family: Arial;
+  src: url('../fonts/arial.ttf'); 
 }
 
 @font-face {
@@ -203,10 +203,10 @@ Primary use:
 }
 
 .l1-txt3 {
-  font-family: Ubuntu-Bold;
-  font-size: 36px;
-  color: white;
-  line-height: 1;
+  font-family: Arial;
+  font-size: 1.2em;
+  color: black;
+  line-height: 1.1;
 }
 
 

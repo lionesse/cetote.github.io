@@ -197,9 +197,9 @@ Primary use:
 
 .l1-txt2 {
   font-family: gilroy-light;
-  font-size: 2.5em;
+  font-size: 3.5em;
   color: black;
-  line-height: 1.5;
+  line-height: 0.7;
 }
 
 .l1-txt3 {
@@ -254,7 +254,7 @@ Primary use:
 
 /*---------------------------------------------*/
 .bg-g1 {
-  background: #FFC0CB;
+  background: #e4cfc7ff;
 /*  background: -webkit-linear-gradient(bottom, #f77062, #fe5196);
   background: -o-linear-gradient(bottom, #f77062, #fe5196);
   background: -moz-linear-gradient(bottom, #f77062, #fe5196);
